@@ -1,5 +1,5 @@
 {
   "version": "1.0",
-  "Link": "",
+  "Link": "https://github.com/KhunAungMyint/text-Repeater-/blob/main/Text%20Repeater.apk?raw=true",
   "Medifire": ""
 }
